@@ -1,3 +1,5 @@
 Node.js is an open-source, cross-platform JavaScript runtime environment.
 
 It is JavaScript running on the server
+
+fs module is used to interact with file systems
